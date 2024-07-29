@@ -18,6 +18,11 @@ Ver 0.0
 
 This project is public for use.
 
+## Document
+
+* [fat12_description](https://code.visualstudio.com/download)
+* [FAT12_overview](https://code.visualstudio.com/download)
+
 ## Important notes
 
 * This reader works with floppy disk images.
