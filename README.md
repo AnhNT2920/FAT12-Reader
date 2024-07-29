@@ -20,8 +20,8 @@ This project is public for use.
 
 ## Document
 
-* [fat12_description](https://code.visualstudio.com/download)
-* [FAT12_overview](https://code.visualstudio.com/download)
+* [fat12_description](https://github.com/AnhNT2920/FAT12-Reader/blob/main/fat12_description.pdf)
+* [FAT12_overview](https://github.com/AnhNT2920/FAT12-Reader/blob/main/FAT12_overview.pdf)
 
 ## Important notes
 
